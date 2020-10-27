@@ -85,7 +85,7 @@ html {
 	background-color: #f6f8fa;
 }
 body {
-	background-image: url("back.png");
+	background-image: url("../back.png");
 }
 h1 {
 	text-align: center;
