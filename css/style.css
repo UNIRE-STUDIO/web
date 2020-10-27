@@ -80,12 +80,12 @@ select {
 
 html {
 	font-size: 20px;
-	
-}
-body {
 	max-width: 750px;
 	margin: 0 auto;
 	background-color: #f6f8fa;
+}
+body {
+	background-image: url("back.png");
 }
 h1 {
 	text-align: center;
