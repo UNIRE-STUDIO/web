@@ -83,8 +83,10 @@ html {
 	max-width: 750px;
 	margin: 0 auto;
 }
+@media (min-width: 1200px) {
 body {
 	background: url("../back.png") 50% 0 no-repeat #f6f8fa;
+}
 }
 h1 {
 	text-align: center;
