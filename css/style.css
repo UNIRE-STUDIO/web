@@ -84,7 +84,7 @@ html {
 	margin: 0 auto;
 }
 body {
-	background-image: url("../back.png") 50% 0 no-repeat #f6f8fa;
+	background: url("../back.png") 50% 0 no-repeat #f6f8fa;
 }
 h1 {
 	text-align: center;
