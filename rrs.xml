@@ -4,15 +4,15 @@
  xmlns:turbo="http://turbo.yandex.ru" version="2.0">
  <channel>
  <turbo:cms_plugin>MaxImco Genarator</turbo:cms_plugin>
- <title>UNIRE - Творческий коллектив</title>
- <link>https://unire.su</link>
- <description>Это команда людей объединённая на общественных началах и схожих интересах. Мы обожаем делиться знаниями и получать новые, как внутри команды, так и извне</description>
+ <title>UNIRE STUDIO</title>
+ <link>http://unire.su</link>
+ <description>это команда людей объединённая на общественных началах и схожих интересах. Мы обожаем делиться знаниями и получать новые, как внутри команды, так и извне.</description>
  <language>ru</language>
- <author>https://unire.su</author>
+ <author>http://unire.su</author>
  <yandex:analytics type="Yandex" id="68662774"/>
 <item turbo="true">
  
- <title>UNIRE - Творческий коллектив</title><link>https://unire.su</link><category>Официальный сайт</category>
+ <title>UNIRE - Творческий коллектив</title><link>http://unire.su</link><category>Официальный сайт</category>
  <description>Зто команда людей объединённая на общественных началах и схожих интересах. Мы обожаем делиться знаниями и получать новые, как внутри команды, так и извне</description>
  
  
@@ -23,7 +23,7 @@
  
  
  
-<turbo:content><![CDATA[<header><menu><a href='https://unire.su'>Главная</a></menu></header>
+<turbo:content><![CDATA[<header><menu><a href='http://unire.su'>Главная</a></menu></header>
  
 <h1>Unire Studio</h1>
 <p>
@@ -44,12 +44,11 @@
  востребованными в своей отрасли.</p>
 <hr>
  
- <p>Страница сгенерирована с помощью <a href="https://www.maxim-m.ru/tools/y-turbo">сервиса Maxim-M</a></p><p>Контактные данные<br>Сайт разработчика:<a href="https://www.maxim-m.ru/tools/y-turbo">maxim-m.ru</a></p>
+ <p>Страница сгенерирована с помощью <a href="https://www.maxim-m.ru/tools/y-turbo">сервиса Maxim-M</a></p><p>Контактные данные<br>Сайт:<a href="https://www.maxim-m.ru">maxim-m.ru</a></p>
  <div data-block="widget-feedback" data-stick="false">
- <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/islandgift"></div> <div data-block="chat" data-type="whatsapp" data-url="https://api.whatsapp.com/send?phone=79092813520"></div>
+ <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/alisa-skills"></div> <div data-block="chat" data-type="whatsapp" data-url="https://api.whatsapp.com/send?phone=79092813520"></div>
  <div data-block="chat" data-type="telegram" data-url="http://t.me/max36895"></div>
- <div data-block="chat" data-type="facebook" data-url="https://www.facebook.com/groups/islandgift"></div>
  <div data-block="chat" data-type="viber" data-url="viber://chat?number=79092813520"></div>
- <div data-block="chat" data-type="google" data-url="http://plus.google.com/communities/118237901655250343991"></div>
- <div data-block="chat" data-type="twitter" data-url="https://twitter.com/strelocmax36895"></div> </div>
+ </div>
+ <p>Если вы хотите убрать данное поле, то свяжитесь с нами.</p>
  ]]></turbo:content></item></channel></rss>
